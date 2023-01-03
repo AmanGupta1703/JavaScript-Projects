@@ -8,4 +8,9 @@
 - [05 - Sidebar](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/05-sidebar)
 
 ## 🔗 Links
-[John Smilga - Website](https://www.johnsmilga.com/)
+- [John Smilga - Website](https://www.johnsmilga.com/)
+- [Starter Files Link](https://github.com/john-smilga/javascript-basic-projects)
+
+
+## Youtube
+- [freeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
