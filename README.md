@@ -10,7 +10,4 @@
 ## 🔗 Links
 - [John Smilga - Website](https://www.johnsmilga.com/)
 - [Starter Files Link](https://github.com/john-smilga/javascript-basic-projects)
-
-
-## Youtube
-- [freeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [freeCodeCamp - Vedio Link](https://www.youtube.com/watch?v=3PHXvlpOkf4)
