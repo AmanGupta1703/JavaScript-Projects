@@ -8,6 +8,7 @@
 - [05 - Sidebar](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/05-sidebar)
 - [06 - Modal](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/06-Modal)
 - [07 - Question (FAQ)](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/07-Questions)
+- [08 - Menu](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/08-Menu)
 
 ## 🔗 Links
 - [John Smilga - Website](https://www.johnsmilga.com/)
