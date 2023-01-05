@@ -10,6 +10,7 @@
 - [07 - Question (FAQ)](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/07-Questions)
 - [08 - Menu](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/08-Menu)
 - [09 - Video](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/09-Video)
+- [10 - Scroll Event](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/10-Scroll)
 
 #### Live Preview
 - [Color Flipper](https://01-color-flipper-project.netlify.app/)
@@ -21,6 +22,7 @@
 - [Question](https://07-questions-project.netlify.app/)
 - [Menu](https://08-menu-project.netlify.app/)
 - [Video](https://09-vedio-project.netlify.app/)
+- [Scroll](https://10-scroll-project.netlify.app/)
 
 ## 🔗 Links
 - [John Smilga - Website](https://www.johnsmilga.com/)
