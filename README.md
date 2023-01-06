@@ -13,6 +13,7 @@
 - [10 - Scroll Event](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/10-Scroll)
 - [11 - Tabs](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/11-Tabs)
 - [12 - Countdown Timer](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/12-Countdown-Timer)
+- [13 - Lorem Ipsum](https://github.com/AmanGupta1703/JavaScript-Projects/tree/main/13-Lorem-Ipsum)
 
 #### Live Preview
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/8e281a6f-1076-4ff1-b2a0-4c1b92820f22/deploy-status)](https://app.netlify.com/sites/11-tabs-project/deploys)
@@ -28,6 +29,7 @@
 - [Scroll](https://10-scroll-project.netlify.app/)
 - [Tabs](https://11-tabs-project.netlify.app/)
 - [Countdown Timer](https://12-countdown-timer-project.netlify.app/)
+- [Lorem Ipsum](https://13-lorem-ipsum-project.netlify.app/)
 
 ## 🔗 Links
 - [John Smilga - Website](https://www.johnsmilga.com/)
