@@ -32,8 +32,8 @@
 - [Tabs](https://11-tabs-project.netlify.app/)
 - [Countdown Timer](https://12-countdown-timer-project.netlify.app/)
 - [Lorem Ipsum](https://13-lorem-ipsum-project.netlify.app/)
-- [14 - Grocery Bud](https://14-grocery-bud-project.netlify.app/)
-- [15 - Slider](https://15-slider-project.netlify.app/)
+- [Grocery Bud](https://14-grocery-bud-project.netlify.app/)
+- [Slider](https://15-slider-project.netlify.app/)
 
 ## 🔗 Links
 - [John Smilga - Website](https://www.johnsmilga.com/)
